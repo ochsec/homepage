@@ -1,0 +1,16 @@
+{
+  "name": "homepage",
+  "version": "1.0.0",
+  "description": "Christopher Ochsenreither's Homepage",
+  "main": "homepage.js",
+  "scripts": {
+    "start": "node homepage.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  }
+}
