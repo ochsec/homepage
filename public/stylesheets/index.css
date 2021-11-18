@@ -1,6 +1,17 @@
+* {
+  font-family: Menlo, Monaco, 'Courier New', monospace;
+}
+
 body {
-    background: black;
-    color: white;
+    background: rgb(46,46,46);
+    color: rgb(214,214,214);
     margin: 0% 10% 10% 10%;
-    font-family: 'JetBrains Mono', monospace;
+}
+
+a {
+  color: rgb(108,153,187);
+}
+
+h4 {
+  color: rgb(180,210,115);
 }
