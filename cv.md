@@ -1,3 +1,4 @@
+<title>ochsec.info</title>
 <link href="https://fonts.gstatic.com" rel="preconnect">
 <link href="https://homepage.ochsec1.repl.co/stylesheets/index.css" rel="stylesheet"></link>
 <link href="https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap" rel="stylesheet"></link>
@@ -37,8 +38,8 @@ Projects
 * Mindplay Academy - new application for teacher training & certification with video learning modules, tests and certificates (similar to Coursera, EdX).
 * Development of in-house CRM for national sales team.
 
-**OnCourse Systems for Education**, *March 2016 - November 2016*  
-**OnCourse Systems for Education**, *Front-End Developer*   
+**Front-End Developer**, *March 2016 - November 2016*  
+**OnCourse Systems for Education**, *Media, Pennsylvania*   
 Developed features across OnCourse's portfolio of web-based solutions for K-12 schools. Coded RESTful APIs in C# and browser applications in Sencha & Angular.js. Participated in weekly sprints and code reviews utilizing project management software.
 
 #### Certifications
