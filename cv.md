@@ -4,7 +4,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap" rel="stylesheet"></link>
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Major+Mono+Display&display=swap" rel="stylesheet"></link>
 
-## Christopher Ochsenreither
+# Christopher Ochsenreither
 #### Full-Stack Software Developer
 643 N Catalina Ave 
 Tucson, AZ 85711  
@@ -33,7 +33,8 @@ Projects:
 **Full-Stack Developer**, *February 2017 - March 2019*  
 **Mindplay**, *Tucson, Arizona*  
 Developed new applications and features for Mindplay's portfolio of educational reading applications.  
-Projects  
+
+Projects:   
 * Achievements Module - gamification of reading activities with customizable avatars, point system and achievement animations.
 * Mindplay Academy - new application for teacher training & certification with video learning modules, tests and certificates (similar to Coursera, EdX).
 * Development of in-house CRM for national sales team.
@@ -41,6 +42,9 @@ Projects
 **Front-End Developer**, *March 2016 - November 2016*  
 **OnCourse Systems for Education**, *Media, Pennsylvania*   
 Developed features across OnCourse's portfolio of web-based solutions for K-12 schools. Coded RESTful APIs in C# and browser applications in Sencha & Angular.js. Participated in weekly sprints and code reviews utilizing project management software.
+
+#### Education
+**B.A. Chemistry**, *Temple University*
 
 #### Certifications
 Freecodecamp [Back End Development and APIs Certification](https://www.freecodecamp.org/certification/ochsec/back-end-development-and-apis)   
