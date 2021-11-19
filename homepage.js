@@ -25,6 +25,10 @@ app.get('/cv', (req, res) => {
   });
 });
 
+app.get('/cv/download', (req, res) => {
+  res.download('./Christopher Ochsenreither CV.pdf');
+});
+
 app.get('*', (req, res) => {
     res.render('index', { title: 'ochsec.info' });
 });

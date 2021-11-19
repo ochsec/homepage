@@ -3,6 +3,14 @@
 <link href="https://homepage.ochsec1.repl.co/stylesheets/index.css" rel="stylesheet"></link>
 <link href="https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap" rel="stylesheet"></link>
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Major+Mono+Display&display=swap" rel="stylesheet"></link>
+<script src="https://kit.fontawesome.com/22ba692b33.js" crossorigin="anonymous"></script>
+
+<div style="float: right">
+  <a href="https://homepage.ochsec1.repl.co/cv/download">
+    <i class="fas fa-file-pdf"></i>
+    Download PDF
+  </a>
+</div>
 
 # Christopher Ochsenreither
 #### Full-Stack Software Developer
