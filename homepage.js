@@ -29,6 +29,20 @@ app.get('/cv/download', (req, res) => {
   res.download('./Christopher Ochsenreither CV.pdf');
 });
 
+app.get('/coverletter', (req, res) => {
+  var path = __dirname + '/coverletter.md';
+  fs.readFile(path, 'utf8', function(err, data) {
+    if (err) {
+      console.log(err);
+    }
+    res.send(marked(data));
+  });
+});
+
+app.get('/coverletter/download', (req, res) => {
+  res.download('./Christopher Ochsenreither Cover Letter.pdf');
+});
+
 app.get('*', (req, res) => {
     res.render('index', { title: 'ochsec.info' });
 });
